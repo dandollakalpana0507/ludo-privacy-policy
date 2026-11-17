@@ -1,6 +1,6 @@
 # Privacy Policy — Ludo
 
-_Last updated: 2026-10-21_
+_Last updated: 2026-11-17_
 
 ## Summary
 
@@ -32,6 +32,8 @@ This data is handled by Google, not by us, under:
 - How Google uses information from sites or apps that use its services — https://policies.google.com/technologies/partner-sites
 
 You can reset your advertising ID or opt out of ad personalization at any time via your device: **Settings → Google → Ads**.
+
+In some regions, the app shows Google's consent form for ad privacy choices. You can reopen available choices in the app under **Settings → Ad Privacy Options**.
 
 Showing ads requires an **internet connection**; the rest of the game works offline.
 
